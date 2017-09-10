@@ -5,5 +5,5 @@ package tlp
   */
 class literal {
 
-  val a : 1 = 1
+//  val a : 1 = 1
 }
